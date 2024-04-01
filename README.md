@@ -14,6 +14,9 @@
 |![](https://komarev.com/ghpvc/?username=NBBotz)|
 | | |
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NBBotz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- GitHub Stats Section -->
 ## Statistical Datas
 
