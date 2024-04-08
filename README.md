@@ -1,24 +1,23 @@
-## 🚀 About Me
+## 🚀 ᴀʙᴏᴜᴛ ᴍᴇ
 
-- Hi My Name Is Noyan Banerjee.
-- I Am Not A Developer.
-- Don't Know Any Computer Language.
-- I Am 19 Years Old.
-- I Am From West Bengal.
+- ʜɪ ᴍʏ ɴᴀᴍᴇ ɪꜱ ɴᴏʏᴀɴ ʙᴀɴᴇʀᴊᴇᴇ.
+- ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+- ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀɴʏ ᴄᴏᴍᴘᴜᴛᴇʀ ʟᴀɴɢᴜᴀɢᴇ.
+- ɪ ᴀᴍ 19 ʏᴇᴀʀꜱ ᴏʟᴅ.
+- ɪ ᴀᴍ ꜰʀᴏᴍ ᴡᴇꜱᴛ ʙᴇɴɢᴀʟ.
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=BAM+BHOLE+😊;Welcome+To+My+Profile.;Bolo+HAR+HAR+MAHADEV.)
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʙᴀᴍ+ʙʜᴏʟᴇ+😊;ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴍʏ+ᴘʀᴏꜰɪʟᴇ.;ʙᴏʟᴏ+ʜᴀʀ+ʜᴀʀ+ᴍᴀʜᴀᴅᴇᴠ.)
 
-## 👀Profile Views
-|  |  |
-| --- | --- |
-|![](https://komarev.com/ghpvc/?username=NBBotz)|
-| | |
 
-## 🏆 GitHub Trophies
+<div align="center">
+<br><p align="center"><b>ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡᴇʀꜱ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NBBotz}/count.svg"/></p> 
+
+## 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇꜱ
 ![](https://github-profile-trophy.vercel.app/?username=NBBotz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- GitHub Stats Section -->
-## Statistical Datas
+
+## ꜱᴛᴀᴛɪꜱᴛɪᴄᴀʟ ᴅᴀᴛᴀ'ꜱ
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NBBotz&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
@@ -27,7 +26,7 @@
        alt="NBBotz" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NBbotz&theme=green_nur)](https://git.io/streak-stats)
+[![ɢɪᴛʜᴜʙ ꜱᴛʀᴇᴀᴋ](https://streak-stats.demolab.com/?user=NBbotz&theme=green_nur)](https://git.io/streak-stats)
 
 
 
