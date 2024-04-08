@@ -2,7 +2,7 @@
 
 - ʜɪ ᴍʏ ɴᴀᴍᴇ ɪꜱ ɴᴏʏᴀɴ ʙᴀɴᴇʀᴊᴇᴇ.
 - ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
-- ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀɴʏ ᴄᴏᴍᴘᴜᴛᴇʀ ʟᴀɴɢᴜᴀɢᴇ.
+- ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀɴʏ ᴄᴏᴍᴘᴜᴛᴇʀ ʟᴀɴɢᴜᴀɢᴇꜱ.
 - ɪ ᴀᴍ 19 ʏᴇᴀʀꜱ ᴏʟᴅ.
 - ɪ ᴀᴍ ꜰʀᴏᴍ ᴡᴇꜱᴛ ʙᴇɴɢᴀʟ.
 
@@ -21,9 +21,8 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NBBotz&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
-       alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NBBotz&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
-       alt="NBBotz" />
+       alt="ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ" />
+  
 </p>
 
 [![ɢɪᴛʜᴜʙ ꜱᴛʀᴇᴀᴋ](https://streak-stats.demolab.com/?user=NBbotz&theme=green_nur)](https://git.io/streak-stats)
