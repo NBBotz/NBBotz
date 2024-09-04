@@ -5,13 +5,41 @@
 
 ###
 
-```py
-About Me = [
-    "I'm Student Of Political Science ",
-    "Don't Know Any Computer Languages",
-    "I am in my world !! 💞"
-    "I Work for Mine"
-]
+```python3
+import datetime
+import pytz
+from motor.motor_asyncio import AsyncIOMotorClient
+from info import *
+
+client = AsyncIOMotorClient(DATABASE_URI)
+mydb = client[DATABASE_NAME]
+
+class Database():
+    def __init__(self):
+        self.name = ['⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |']
+        self.country = ['India']
+        self.language = ['Bengali', 'English']
+
+    def new_viewer(self, id, name):
+        return dict(
+            id = id,
+            name = name
+            )
+        )
+
+    async def add_viewer(self, id, name):
+        user = self.new_user(id, name)
+        await self.col.insert_one(user)
+    
+    async def is_viewer_exist(self, id):
+        user = await self.col.find_one({'id':int(id)})
+        return bool(user)
+    
+    async def total_viewer_count(self):
+        count = await self.col.count_documents({})
+        return count 
+
+db = Database()
 ```
 
 ###
@@ -24,8 +52,8 @@ About Me = [
 <br><p align="center"><b>ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡᴇʀꜱ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NBBotz}/count.svg"/></p> 
 
-
-## ꜱᴛᴀᴛɪꜱᴛɪᴄᴀʟ ᴅᴀᴛᴀ'ꜱ
+<img src="https://github.com/NBBotz/NBBotz/blob/main/items/analytics.webp" width="57px" style="float: left; margin-right: 10px;">
+<h1>ꜱᴛᴀᴛɪꜱᴛɪᴄᴀʟ ᴅᴀᴛᴀ'ꜱ</h1>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NBBotz&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
