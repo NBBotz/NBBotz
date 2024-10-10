@@ -5,43 +5,6 @@
 
 ###
 
-```python3
-import datetime
-import pytz
-from motor.motor_asyncio import AsyncIOMotorClient
-from info import *
-
-client = AsyncIOMotorClient(DATABASE_URI)
-mydb = client[DATABASE_NAME]
-
-class Database():
-    def __init__(self):
-        self.name = ['⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |']
-        self.country = ['India']
-        self.language = ['Bengali', 'English']
-
-    def new_viewer(self, id, name):
-        return dict(
-            id = id,
-            name = name
-            )
-        )
-
-    async def add_viewer(self, id, name):
-        user = self.new_user(id, name)
-        await self.col.insert_one(user)
-    
-    async def is_viewer_exist(self, id):
-        user = await self.col.find_one({'id':int(id)})
-        return bool(user)
-    
-    async def total_viewer_count(self):
-        count = await self.col.count_documents({})
-        return count 
-
-db = Database()
-```
-
 ###
 
 &nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʙᴀᴍ+ʙʜᴏʟᴇ+😊;ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴍʏ+ᴘʀᴏꜰɪʟᴇ.;ʙᴏʟᴏ+ʜᴀʀ+ʜᴀʀ+ᴍᴀʜᴀᴅᴇᴠ.)
