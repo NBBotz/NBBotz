@@ -66,7 +66,7 @@
 
 <br/>
 
-### 🌟 Contribution Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="30" height="30" /> Contribution Graph
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBBotz&theme=radical" />
